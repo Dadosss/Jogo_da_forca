@@ -18,9 +18,9 @@ void limpaTela(){
 
 string retornaPalavraAleatoria() {
 	// Vetor com palavras disponíveis.
-	string palavras[3] = {"manga", "abacaxi", "morango"};
+	string palavras[9] = {"manga", "abacaxi", "morango","abacate","laranja","cadeira","paralelepipedo","otorrinolaringologista","geladeira"};
 	
-	int indiceAleatorio = rand() % 3; // Indice gerado no intervalo {0,1,2}.
+	int indiceAleatorio = rand() % 9; // Indice gerado no intervalo {0,1,2}.
 	
 	return palavras[indiceAleatorio];
 	
