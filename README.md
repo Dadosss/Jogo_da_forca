@@ -1,2 +1,1 @@
-# JOGO DA FORCA.
-Jogo da forca.
+Jogo da forca
