@@ -27,7 +27,7 @@ string retornaPalavraAleatoria() {
 	
 }
 
-// Retorna a palavra aleatória ou inserida pelo usuário escondida (EX: _ _ _ _ _). 
+// Retorna a palavra aleatória, ou inserida pelo usuário, mascarada (EX: _ _ _ _ _). 
 string retornaPalavraComMascara(string palavra, int tamanhoDaPalavra){
 	
 	int cont = 0;
